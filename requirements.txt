@@ -1,0 +1,7 @@
+pandas==3.0.5
+numpy==2.5.3
+duckdb==2.0.0
+lightgbm==4.7.0
+statsmodels==0.15.0
+matplotlib==3.11.2
+pyarrow==26.0.0
